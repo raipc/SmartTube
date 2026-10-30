@@ -500,3 +500,7 @@ A: No, this is not possible. SmartTube does not have any code to display ads. Ad
 
 
 
+
+## Architecture and browser port
+
+See [the architecture overview](ARCHITECTURE.md) for the module map, Android dependencies, reuse matrix, and proposed browser-port validation plan (in Russian).
